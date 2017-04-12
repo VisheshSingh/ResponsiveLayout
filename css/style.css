@@ -151,6 +151,20 @@ article#main-col{
   width:65%;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  width:90%;
+  padding:5px;
+}
+/*Services*/
+
+ul#services li{
+  list-style:none;
+  padding: 30px;
+  border: #cccccc 1px solid;
+  margin-bottom: 5px;
+  background: #e6e6e6;
+
+}
 footer{
   padding:20px;
   margin-top: 20px;
